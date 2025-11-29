@@ -1,0 +1,12 @@
+2025-11-01 12:51:02,869 This is an Fatal message
+2025-11-01 12:51:02,877 This is an Error message
+2025-11-01 12:51:02,877 This is an Warning message
+2025-11-01 12:52:56,107 This is an Fatal message
+2025-11-01 12:52:56,113 This is an Error message
+2025-11-01 12:52:56,113 This is an Warning message
+2025-11-01 13:00:42,692 This is an Fatal message
+2025-11-01 13:00:42,698 This is an Error message
+2025-11-01 13:00:42,698 This is an Warning message
+2025-11-01 13:02:04.503 [main] FATAL   com.log4j2.Demo This is an Fatal message
+2025-11-01 13:02:04.509 [main] ERROR   com.log4j2.Demo This is an Error message
+2025-11-01 13:02:04.509 [main] WARN    com.log4j2.Demo This is an Warning message
